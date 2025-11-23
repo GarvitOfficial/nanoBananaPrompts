@@ -2,14 +2,4 @@
 
 
 
-| # | Seed | Image | Prompt |
-|---|---|---|---|
-| 0001 | <a href="images/01seed.png"><img src="images/01seed.png" alt="seed 0001" width="140"/></a> | <a href="images/0001.png"><img src="images/0001.png" alt="0001" width="240"/></a> | [full](prompts/0001.txt) |
-
-## Mobile Gallery
-
-<details><summary># 0001 — uw ifhs</summary>
-<a href="images/01seed.png"><img src="images/01seed.png" alt="seed 0001" width="420"/></a>
-<a href="images/0001.png"><img src="images/0001.png" alt="0001" width="520"/></a>
-Prompt: [full](prompts/0001.txt)
-</details>
+<table style="width:100%;table-layout:fixed;"><thead><tr><th style="width:6%;">#</th><th style="width:32%;">Seed</th><th style="width:32%;">Image</th><th style="width:30%;">Prompt</th></tr></thead><tbody><tr><td style="width:6%;">0001</td><td style="width:32%;"><a href="images/01seed.png"><img src="images/01seed.png" alt="seed 0001" style="max-width:100%;height:auto;display:block;"/></a></td><td style="width:32%;"><a href="images/0001.png"><img src="images/0001.png" alt="0001" style="max-width:100%;height:auto;display:block;"/></a></td><td style="width:30%;">blue-hour beach scene … <a href="prompts/0001.txt">See</a></td></tr><tr><td style="width:6%;">0002</td><td style="width:32%;"></td><td style="width:32%;"></td><td style="width:30%;">I am sitting … <a href="prompts/0002.txt">See</a></td></tr><tr><td style="width:6%;">0003</td><td style="width:32%;"></td><td style="width:32%;"></td><td style="width:30%;">Faceand hair details … <a href="prompts/0003.txt">See</a></td></tr><tr><td style="width:6%;">0004</td><td style="width:32%;"></td><td style="width:32%;"></td><td style="width:30%;">Nighttime flash photo … <a href="prompts/0004.txt">See</a></td></tr><tr><td style="width:6%;">0005</td><td style="width:32%;"></td><td style="width:32%;"></td><td style="width:30%;">Create an image … <a href="prompts/0005.txt">See</a></td></tr></tbody></table>
