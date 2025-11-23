@@ -1,7 +1,15 @@
-# Family-Friendly Image Dataset
+# Nano Banana Prompts
 
-Family-friendly AI image dataset with auto-numbered image/prompt pairs.
 
-| # | Image | Prompt | Tags |
-|---|---|---|---|
-| 0001 | ![0001](images/0001.png) | 1 > blue-hour beach scene, person wearing a white linen shirt, soft ocean wind moving the hair, calm sea and horizon in background, realistic lighting and shadows, emotional melancholic mood — create… [full](prompts/0001.txt) | serene, futuristic, eco, city, illustration, family-friendly, original, ai-art |
+
+| # | Seed | Image | Prompt | Tags |
+|---|---|---|---|---|
+| 0001 | <a href="images/01seed.png"><img src="images/01seed.png" alt="seed 0001" width="120"/></a> | <a href="images/0001.png"><img src="images/0001.png" alt="0001" width="160"/></a> | 1 > blue-hour beach scene, person wearing a white linen shirt, soft ocean wind moving the hair, calm sea and horizon in background, realistic lighting and shado… [full](prompts/0001.txt) | serene, futuristic, eco, city, illustration, family-friendly, original, ai-art |
+
+## Mobile Gallery
+
+<details><summary># 0001 — serene, futuristic, eco, city, illustration, family-friendly, original, ai-art</summary>
+<a href="images/01seed.png"><img src="images/01seed.png" alt="seed 0001" width="340"/></a>
+<a href="images/0001.png"><img src="images/0001.png" alt="0001" width="380"/></a>
+Prompt: [full](prompts/0001.txt)
+</details>
