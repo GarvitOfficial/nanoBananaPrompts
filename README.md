@@ -8,7 +8,7 @@
 
 ## Mobile Gallery
 
-<details><summary># 0001</summary>
+<details><summary># 0001 — uw ifhs</summary>
 <a href="images/01seed.png"><img src="images/01seed.png" alt="seed 0001" width="340"/></a>
 <a href="images/0001.png"><img src="images/0001.png" alt="0001" width="380"/></a>
 Prompt: [full](prompts/0001.txt)
