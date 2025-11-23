@@ -1,6 +1,5 @@
-# Family-Friendly Image Dataset
+# Nano Banana Prompts
 
-Family-friendly AI image dataset with auto-numbered image/prompt pairs.
 
 | # | Image | Prompt | Tags |
 |---|---|---|---|
