@@ -42,6 +42,13 @@ def safe_read(path):
     except Exception:
         return ""
 
+def find_seed_base(base_name):
+    for ext in ("png", "jpg", "jpeg", "webp"):
+        rel = os.path.join("images", f"{base_name}.{ext}")
+        if os.path.exists(os.path.join(root, rel)):
+            return rel
+    return None
+
 def build_table(entries):
     rows_html = []
     for e in entries:
@@ -57,10 +64,10 @@ def build_table(entries):
             seed_rel = parsed.get("seed")
         except Exception:
             pass
+        if seed_rel and not os.path.exists(os.path.join(root, seed_rel)):
+            seed_rel = None
         if not seed_rel:
-            default_seed = os.path.join("images", "02seed.png")
-            if os.path.exists(os.path.join(root, default_seed)):
-                seed_rel = default_seed
+            seed_rel = find_seed_base("02seed")
         seed_cell = ""
         if seed_rel:
             abs_seed = os.path.join(root, seed_rel)
